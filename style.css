@@ -9,8 +9,39 @@ h1{
     border-image-slice: 1;
     padding: 10px;
 }
+.poc{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 15px;
+    -moz-box-align: baseline;
+    
+}
+.poc img{
+    inline-size: 10pc;
+}
+.one{
+    background-image: linear-gradient(rgba(163, 211, 211, 0.37), rgba(152, 204, 204, 0.199));
+    margin-right: 0px;
+}
+.two{
+    background-image: linear-gradient(rgb(214, 201, 199),rgba(216, 191, 195, 0.952));
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.three{
+    background-image: linear-gradient(#eff542,#e9e0a6);
+    margin-left: 0px;
+}
+.size{
+        display: flex;
+    column-gap: initial;
+}
 .color{
-    color: tomato;
+    color: rgba(255, 99, 71, 0.932);
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -22,13 +53,20 @@ body{
     padding: 5px 20px 5px 20px;
     border-radius: 5px;
 }
+.mission {font-size: 10px;
+    text-align: center;
 
+    
+}
 .first{
     display: flex;
     width: 90%;
     padding-left: 90px;
     padding-top: 70px;
     padding-right: 90px;
+}
+.second{
+    display: flex;
 }
 .text img{
 width: 60%;
