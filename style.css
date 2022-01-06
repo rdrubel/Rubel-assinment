@@ -1,0 +1,37 @@
+h1{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.slice{
+    border-left: solid 4px;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    padding: 10px;
+}
+.color{
+    color: tomato;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.link{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+}
+
+.first{
+    display: flex;
+    width: 90%;
+    padding-left: 90px;
+    padding-top: 70px;
+    padding-right: 90px;
+}
+.text img{
+width: 60%;
+padding-left: 90px;
+
+}
