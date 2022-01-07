@@ -79,6 +79,13 @@ h2{
         
     
 }
+.five{
+    display: flex;
+}
+.pach img{
+    width: 70%;
+    margin-left: 30px;
+}
 .para{
  padding-right: 70px;
 }
