@@ -79,6 +79,14 @@ h2{
         
     
 }
+.foot{
+    padding-top: 5px;
+    padding-bottom: 30px;
+    font-style: italic;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
 .five{
     display: flex;
 }
